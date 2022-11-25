@@ -1,2 +1,2 @@
 My first readme.
-This is best expirance to How to Pull tanks ALX
+This is the best experience of How to Pull and Push. Thanks, ALX
